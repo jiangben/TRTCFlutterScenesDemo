@@ -48,3 +48,4 @@ ios/SignProvision
 lib/debug/Config.dart
 ios/Podfile.lock
 .vscode
+*.lock
